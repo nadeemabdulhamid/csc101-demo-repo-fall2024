@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Number of files to create
-num_files=10
+num_files=100
 
 # Directory to create files in (current directory by default)
 output_dir="."

@@ -5,7 +5,7 @@
 
 - Computers are awesome!
 - It's cool
-
+- It's fun!
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 

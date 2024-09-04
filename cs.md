@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- Computers are awesome!
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- Osint tools and reddit wizards!
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- Lot's and lot's of coffee.
 
 
 

@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- It's cool
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- My beautiful laptop 
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- Focus and hard work
 
 
 

@@ -3,7 +3,7 @@
 
 ## Why study computer science?
 
-- People often study computer science to gain a better understanding of the inner-workings of the machines that we use everyday.
+- People often study computer science to gain a better understanding of the inner-workings of the machines that we use every day.
 
 
 

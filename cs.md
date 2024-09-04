@@ -6,7 +6,7 @@
 - To enhance your understaning of the online world
 - to have the ability to understand the limitations and abilities of websites
 - flexible job experience
-- 
+
 
 
 
@@ -16,7 +16,7 @@
 - typing, problem solving skills
 - understanding concepts of computer science
 - comprehending data types
-- 
+
 
 
 
@@ -28,7 +28,7 @@
 - continue typing practice regularly
 - keep familiar with code, pracctice
 - continue to think around problems rather than looking up answers
-- 
+
 
 
 

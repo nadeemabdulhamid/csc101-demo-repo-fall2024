@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+Computer Science is a necessary skill that I personally need in my career as a Biomedical engineer. It will help me obtain the skill necessary to my resume as well.
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+Study, study study. Being enthusiastic about the learning material is also crucial to the learning experience.
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+Like I stated above, I need to be enthusiastic in my studies and realize that this is the first step to a strong career in engieneering.
 
 
 

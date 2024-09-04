@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- to learn how computers work and what the backbone of computers is.
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- Determination and not procrastinating.
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- This class.
 
 
 

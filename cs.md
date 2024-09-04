@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- Computer science is a key part of today's society and is a major field that has a lot to offer in the job landscape
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- Skills like typing and programming will help with learning computer science 
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- Continued hard work and gaining familiarity with the field 
 
 
 

@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- To enhance your understaning of the online world, to have the ability to understand the limitations and abilities of websites, flexible job experience
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- typing, problem solving skills, understanding concepts of computer science and comprehending data types
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- continue typing practice regularly, keep familiar with code, pracctice, continue to think around problems rather than looking up answers
 
 
 

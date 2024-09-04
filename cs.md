@@ -4,7 +4,7 @@
 ## Why study computer science?
 
 - to learn how computers work and what the backbone of computers is.
-
+- Hello World
 
 
 
